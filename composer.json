@@ -1,0 +1,21 @@
+{
+    "name": "presstigers/contact",
+    "description": "This package will send email to admin and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "usman.abbas",
+            "email": "usman.abbas@nxb.com.pk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Presstigers\\Contact\\": "src/"
+        }
+    }
+}
